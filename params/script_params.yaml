@@ -1,0 +1,7 @@
+use_mixer: True
+mixer: 2
+use_arm_channel: True
+channel: 5
+use_min_throttle: True
+min_throttle: 0
+use_imu: True

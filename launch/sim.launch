@@ -1,0 +1,6 @@
+<launch>
+
+  <arg name="multirotor" value="multirotor.launch" />
+  <include file="$(find eiso_sim)/launch/$(arg multirotor)" />
+
+</launch>
