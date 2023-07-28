@@ -11,7 +11,6 @@ Commands to run:
 roscore
 rosrun eiso_sim basic_comms.py
 rosrun eiso_sim flight_control_node.py
-
 ```
 
 ### Status
